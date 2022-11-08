@@ -1,0 +1,26 @@
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.csproj.AssemblyReference.cache
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.Properties.Resources.resources
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.csproj.GenerateResource.cache
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\bin\Debug\Luan_XoSo.exe.config
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\bin\Debug\Luan_XoSo.exe
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\bin\Debug\Luan_XoSo.pdb
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.exe
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.pdb
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.frmLuan.resources
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.Config.resources
+D:\LapTrinhWindown\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.Search.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\bin\Debug\Luan_XoSo.exe.config
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\bin\Debug\Luan_XoSo.exe
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\bin\Debug\Luan_XoSo.pdb
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.csproj.AssemblyReference.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.csproj.SuggestedBindingRedirects.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.Config.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.frmLuan.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.Properties.Resources.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.Search.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.csproj.GenerateResource.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.exe
+D:\Hoc Tap\HK7\Lập trình trong windows\Luan_XoSo\Luan_XoSo\obj\Debug\Luan_XoSo.pdb
